@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  background-color: beige;
+}
+
+header {
+  position: relative;
+  padding-left: 100px;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  right: 100px;
+}
+
+h1 {
+  display: flex;
+  color: blueviolet;
+  list-style-type: 65;
+  text-align: center;
+  font-size: 100;
+}
+
+.lists {
+ display: flex;
+ color: cornflowerblue;
+ list-style-type: none;
+ text-align: center;
+  padding-right: 30px;
+}
+
+.list {
+  color: cornflowerblue;
+  padding-right: 50px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.img {
+  width: 200;
+  position: relative;
+  padding-left: 6%;
+}
+
+h2 {
+  display: flex;
+  color: blue;
+  text-align: left;
+  font-size: 35px;
+}
+
+p {
+font-size: 30;
+}
